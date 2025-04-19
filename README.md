@@ -8,6 +8,7 @@ All rights reserved.
 Any unauthorized copying, reproduction, performance, distribution, or other use of this script is strictly prohibited without the written permission of the author.
 Contact : mmartsinger@gmail.com / www.makovii.com
 For licensing inquiries or collaboration requests, please contact the author directly.
+"Тайна последнего коктейля" сценарий иммерсивного спектакля 
 ...звук из радиоприемника: 
 (Голос с лёгкой хрипотцой, торжественно и тревожно)
 “Внимание, сново экстренный выпуск!
